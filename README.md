@@ -1,4 +1,4 @@
 # Quantum_Q-Byte_Simulation
-Fourth Year Project (MatLab EM simulation)
+## Fourth Year Project (MATLAB EM simulation)
 
 ![Image](poster.png)
